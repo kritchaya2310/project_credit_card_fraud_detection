@@ -24,7 +24,7 @@ To run this notebook, you will need the following dependencies:
 - seaborn
 - scikit-learn
 ## Installation
-To install the required dependencies, you can use pip, the Python package manager. Run the following command:
+To import the required dependencies, you can use pip, the Python package manager. Run the following command:
 
 ```bash
 import pandas as pd
