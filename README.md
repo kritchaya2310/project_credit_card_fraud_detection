@@ -1,4 +1,5 @@
 # Credit Card Fraud Detection using PyCaret
+The dataset contains transactions made by credit cards in September 2013 by European cardholders.
 This repository contains a Jupyter Notebook where we will perform Credit Card Fraud Detection using PyCaret, a Python library for machine learning.
 
 ## Overview
