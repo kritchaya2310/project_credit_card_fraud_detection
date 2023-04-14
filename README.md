@@ -3,7 +3,7 @@ This repository contains a Jupyter Notebook where we will perform Credit Card Fr
 
 ## Context
 The dataset contains transactions made by credit cards in September 2013 by European cardholders.
-[dataset]('https://drive.google.com/file/d/1xNiRrWrQORHzAPER98VRj8rSws58LIcN/view?usp=sharing')
+[Dataset Link](https://drive.google.com/file/d/1xNiRrWrQORHzAPER98VRj8rSws58LIcN/view?usp=sharing)
 
 ## Overview
 Credit card fraud is a common problem that affects many people worldwide. Detecting fraudulent transactions in a timely manner is essential to prevent monetary losses. In this project, we will use machine learning algorithms to classify credit card transactions as either fraudulent or genuine.
